@@ -19,6 +19,12 @@ I performed a launch-focused QA audit of a Roblox multiplayer survival experienc
 
 [Open the complete Color Collapse QA case study →](https://github.com/jjjjavad/color-collapse-qa-portfolio)
 
+## Featured project: Loopbreaker Maintenance
+
+I developed a single-player Roblox time-loop puzzle game and verified fixes for chamber transitions, saved replay, and controller input. Studio testing covered **341 exit crossings with zero falls** and **12 chambers solved through ordinary gameplay routes** by an automated driver. The report documents what still needs live-network and physical-device testing.
+
+[Open the Loopbreaker Maintenance QA case study →](https://github.com/jjjjavad/loopbreaker-qa-portfolio)
+
 ## QA skills demonstrated
 
 - Test strategy, test-case design, boundary analysis, and regression planning.
